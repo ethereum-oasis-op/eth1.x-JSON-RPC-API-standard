@@ -1,4 +1,4 @@
-# eth1.x-JSON-RPC-API-standard
+# ETH 1.x JSON RPC API Standard
 
 ## Resources
 
