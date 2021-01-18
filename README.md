@@ -15,7 +15,7 @@ The prupose of these meetings is to provide a detailed standard specification of
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
-1 | January 27th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/1) | [notes](<https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/Standard Meetings/Meeting 1.md>) |
+1 | January 27th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/1) | [notes](<https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/blob/master/Standard%20Meetings/Meeting%201.md>) |
 
 
 ### Who Can Attend
