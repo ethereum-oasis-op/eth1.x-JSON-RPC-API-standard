@@ -1,11 +1,5 @@
 # ETH 1.x JSON RPC API Standard
 
-## Resources
-
-* [Individual Contributor License Agreement](https://cla-assistant.io/ethereum-oasis/eth1.x-JSON-RPC-API-standard) (to be signed & executed by all participants)
-* [Entity Contributor License Agreement](https://www.oasis-open.org/resources/projects/cla/projects-entity-cla) (to be signed & executed if you are participating on behalf of your employer)  
-* [mailing list homepage](https://lists.oasis-open-projects.org/g/eth1.x-json-rpc-standard) (view list archives and sign up to recieve or participate in mailing list discussions)
-
 ## ETH 1.x JSON RPC API Standard Meetings
 
 ### Purpose
@@ -27,3 +21,9 @@ Agenda's are posted to https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-sta
 
 ### Who Manages the Meetings
 Tomasz Stanczak runs the meetings.a
+
+## License Agreements
+
+* [Individual Contributor License Agreement](https://cla-assistant.io/ethereum-oasis/eth1.x-JSON-RPC-API-standard) (to be signed & executed by all participants)
+* [Entity Contributor License Agreement](https://www.oasis-open.org/resources/projects/cla/projects-entity-cla) (to be signed & executed if you are participating on behalf of your employer)  
+* [mailing list homepage](https://lists.oasis-open-projects.org/g/eth1.x-json-rpc-standard) (view list archives and sign up to recieve or participate in mailing list discussions)
