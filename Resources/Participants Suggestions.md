@@ -1,5 +1,5 @@
  Name                             | Type          | Contact Person |
---- | -------------------------------- | -------------- | ------------ |
+--- | -------------------------------- | -------------- |
 BeSu | Eth 1.x Client ||
 Geth | Eth 1.x Client ||
 Nethermind | Eth 1.x Client ||
