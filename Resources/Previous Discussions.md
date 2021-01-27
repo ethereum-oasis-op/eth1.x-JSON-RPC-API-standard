@@ -11,7 +11,7 @@
 ## Existing specs and docs
 * [Ethereum Builders GitBook](https://ethereumbuilders.gitbooks.io/guide/content/en/ethereum_json_rpc.html)
 * [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/JSON-RPC)
-* [OpenEthereum JSON RPC](https://openethereum.github.io/wiki/JSONRPC)
+* [OpenEthereum JSON RPC](https://openethereum.github.io/JSONRPC)
 * [Geth JSON RPC Spec](https://geth.ethereum.org/docs/rpc/server)
 * [Infura Docs](https://infura.io/docs/)
 
