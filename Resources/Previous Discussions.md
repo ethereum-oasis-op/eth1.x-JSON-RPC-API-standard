@@ -14,6 +14,7 @@
 * [OpenEthereum JSON RPC](https://openethereum.github.io/JSONRPC)
 * [Geth JSON RPC Spec](https://geth.ethereum.org/docs/rpc/server)
 * [Infura Docs](https://infura.io/docs/)
+* [Nethermind Docs](https://docs.nethermind.io/nethermind/ethereum-client/json-rpc)
 
 ## ETC Open RPC specs
 * [Open RPC](https://open-rpc.org/)
