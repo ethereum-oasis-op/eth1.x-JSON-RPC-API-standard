@@ -12,10 +12,10 @@ The prupose of these meetings is to provide a detailed standard specification of
 1 | January 27th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/1) | [notes](<https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/blob/master/Standard%20Meetings/Meeting%201.md>) | https://zoom.us/rec/share/3H4tbt-nA4WqoNHrOtcDO3mxluFhl1YBLHZOKfbZgFfLO1siBhgy8Pd4NwZV4Xq2.SONIP1WGguBZtEe1 |
 2 | February 10th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/9) | [notes](<https://gist.github.com/skmgoldin/b455a6315949c9fe5b715c1e437e2583>) | https://zoom.us/rec/share/hj2so7RI8mupcqQ-7bFe2AzB9SuR6frSzFZIASMlIQHTSfehVpcFLatzEmLxdW3n.WmuEt7C88HDLqUQm |
 2 | February 10th, 22:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/9) |  | https://zoom.us/rec/share/ly-0UxsSir9QmnV0mhIct1tjt4Fl9ZVpVCo4AZfOHCRXTdE70DftB8HzSAjjc6xM.TMnHHcY8359xlTt- |
-3 | February 24th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/20) |  |  |
-3 | February 24th, 22:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/20) |  |  |
-4 | March 17th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/27) |  |  |
-4 | March 17th, 22:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/27) |  |  |
+3 | February 24th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/20) |  | https://zoom.us/rec/share/kEqgobsnxSMguSoXPU_mpn8vFJS79dkzKwzrA8QHE7Vkrki1oJSj_Q9IxZ_6AN6e.d-zbmujlZcunGEcW?startTime=1614175105000 |
+3 | February 24th, 22:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/20) |  | https://zoom.us/rec/share/3KLGOfUX7MhsQeRHlGptYZysX99GqSv_Tf6PZmGenV1KPSOkozqPT6wyExg3Pho.8OqucRJiOMTaydIS?startTime=1614204036000 |
+4 | March 17th, 14:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/27) |  | https://zoom.us/rec/share/xCUUwy6_QJ5FCfIVwtsw27-bo1x0exg1vZCxL4xuiN78MNiKVXkcYzqVWeHNcWyH.Oj22VVeuvVNJp7Bq?startTime=1615989554000 |
+4 | March 17th, 22:00 UTC| [agenda](https://github.com/ethereum-oasis/eth1.x-JSON-RPC-API-standard/issues/27) |  | https://zoom.us/rec/share/fBZVA0qP5vxJap2QYmG0C3VrMnu07JgzdlqbzPsmQecRX_NPVhAQrLi3Vj-GgeGB.RHEKXpVCl7Z4sOR5?startTime=1616018305000 |
 
 
 ### Who Can Attend
